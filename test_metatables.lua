@@ -68,4 +68,4 @@ print (type(result))
 
 print (result.__index)
 --result.__index(a,b)
-
+--добавил коммент
